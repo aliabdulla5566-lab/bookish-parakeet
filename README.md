@@ -1,4 +1,4 @@
-# bookish-parakeet
+mailto:admin@suleiman.com# bookish-parakeet
 Life
 // التحقق من صحة البطاقة
 const validateCard = (cardNumber) => {
